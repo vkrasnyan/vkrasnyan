@@ -11,10 +11,11 @@
 
 ## 🌟 Мои проекты:  
 - [Интернет-магазин на Django](https://github.com/vkrasnyan/python-django-shop)  
-- [Асинхронное API на FastAPI](https://gitlab.com/flask5745543/fastapicookingbookwithtests)  
+- [Асинхронное API на FastAPI](https://github.com/vkrasnyan/FastAPIMicroblog)  
 - [REST API на Flask and Marshmallow ](https://github.com/vkrasnyan/Rest_Api_Flask)
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)
 - [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
+- [Асинхронное API на FastAPI с тестами] (https://github.com/vkrasnyan/FastApiCookingBookWithTests)
 - Чат-боты для Телеграм
 - И другие :)
 
@@ -40,10 +41,11 @@ I also enjoy learning new things and contributing to exciting projects.
 
 ## 🌟 My Projects:  
 - [Online Store on Django](https://github.com/vkrasnyan/python-django-shop)  
-- [Asynchronous API on FastAPI](https://gitlab.com/flask5745543/fastapicookingbookwithtests)  
+- [Asynchronous API on FastAPI](https://github.com/vkrasnyan/FastAPIMicroblog))  
 - [REST API with Flask and Marshmallow](https://github.com/vkrasnyan/Rest_Api_Flask)  
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)  
-- [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)  
+- [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
+- [Asynchronous API on FastAPI with Tests] (https://github.com/vkrasnyan/FastApiCookingBookWithTests)
 - Telegram chatbots  
 - And more! :)  
 
