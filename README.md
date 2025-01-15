@@ -15,7 +15,7 @@
 - [REST API на Flask and Marshmallow ](https://github.com/vkrasnyan/Rest_Api_Flask)
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)
 - [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
-- [Асинхронное API на FastAPI с тестами] (https://github.com/vkrasnyan/FastApiCookingBookWithTests)
+- [Асинхронное API на FastAPI с тестами](https://github.com/vkrasnyan/FastApiCookingBookWithTests)
 - Чат-боты для Телеграм
 - И другие :)
 
@@ -45,7 +45,7 @@ I also enjoy learning new things and contributing to exciting projects.
 - [REST API with Flask and Marshmallow](https://github.com/vkrasnyan/Rest_Api_Flask)  
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)  
 - [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
-- [Asynchronous API on FastAPI with Tests] (https://github.com/vkrasnyan/FastApiCookingBookWithTests)
+- [Asynchronous API on FastAPI with Tests](https://github.com/vkrasnyan/FastApiCookingBookWithTests)
 - Telegram chatbots  
 - And more! :)  
 
