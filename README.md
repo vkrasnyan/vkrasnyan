@@ -10,9 +10,10 @@
 - **Инструменты:** Docker, Git, Linux  
 
 ## 🌟 Мои проекты:
+- [Мини-приложение с телеграм-клиентом и интеграцией OpenAI](https://github.com/vkrasnyan/MiniApp-with-Telegram-Client)
 - [Парсинг данных, обработка с помощью библиотек pandas и BeautifulSoap, а также интеграция с Open AI - один большой скрипт для запуска на Google Colab](https://github.com/vkrasnyan/parsing)
 - [Интернет-магазин на Django](https://github.com/vkrasnyan/python-django-shop)  
-- [Асинхронное API на FastAPI](https://github.com/vkrasnyan/FastAPIMicroblog)  
+- [Асинхронное API для микроблога на FastAPI](https://github.com/vkrasnyan/FastAPIMicroblog)  
 - [REST API на Flask and Marshmallow ](https://github.com/vkrasnyan/Rest_Api_Flask)
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)
 - [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
@@ -26,7 +27,7 @@
 - Хочу изучить язык Go и DevOps-практики.  
 
 ## 📫 Как связаться со мной?  
-- Email: vickie2000@mail.ru
+- Email: v.krasnyanskaya@gmail.com
 - Telegram: @vickie2000
 
   # Hi, I'm Viktoria! 👋  
@@ -41,8 +42,9 @@ I also enjoy learning new things and contributing to exciting projects.
 - **Tools:** Docker, Git, Linux  
 
 ## 🌟 My Projects:  
+- [FastAPI Telegram Client App integrated with OpenAI](https://github.com/vkrasnyan/MiniApp-with-Telegram-Client)
 - [Online Store on Django](https://github.com/vkrasnyan/python-django-shop)  
-- [Asynchronous API on FastAPI](https://github.com/vkrasnyan/FastAPIMicroblog))  
+- [Asynchronous API for microblog on FastAPI](https://github.com/vkrasnyan/FastAPIMicroblog))  
 - [REST API with Flask and Marshmallow](https://github.com/vkrasnyan/Rest_Api_Flask)  
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)  
 - [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
@@ -56,5 +58,5 @@ I also enjoy learning new things and contributing to exciting projects.
 - Planning to learn the Go programming language and dive into DevOps practices.  
 
 ## 📫 How to Reach Me:  
-- Email: vickie2000@mail.ru  
+- Email: v.krasnyanskaya@gmail.com  
 - Telegram: @vickie2000  
