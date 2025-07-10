@@ -10,6 +10,8 @@
 - **Инструменты:** Docker, Git, Linux  
 
 ## 🌟 Мои проекты:
+- [Асинхронное приложение для управления задачами на FastAPI](https://github.com/vkrasnyan/todo_app)
+- [Мини-приложение для модерации изображений с интеграцией Sightengine API](https://github.com/vkrasnyan/moderation_app)
 - [Мини-приложение с телеграм-клиентом и интеграцией OpenAI](https://github.com/vkrasnyan/MiniApp-with-Telegram-Client)
 - [Парсинг данных, обработка с помощью библиотек pandas и BeautifulSoap, а также интеграция с Open AI - один большой скрипт для запуска на Google Colab](https://github.com/vkrasnyan/parsing)
 - [Интернет-магазин на Django](https://github.com/vkrasnyan/python-django-shop)  
@@ -17,7 +19,6 @@
 - [REST API на Flask and Marshmallow ](https://github.com/vkrasnyan/Rest_Api_Flask)
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)
 - [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
-- [Асинхронное API на FastAPI с тестами](https://github.com/vkrasnyan/FastApiCookingBookWithTests)
 - Чат-боты для Телеграм
 - И другие :)
 
@@ -41,14 +42,15 @@ I also enjoy learning new things and contributing to exciting projects.
 - **Databases:** PostgreSQL, MySQL, SQLite  
 - **Tools:** Docker, Git, Linux  
 
-## 🌟 My Projects:  
+## 🌟 My Projects:
+- [Asynchronous ToDo API with FastAPI](https://github.com/vkrasnyan/todo_app)
+- [FastAPI-based image moderation service with Sightengine integration](https://github.com/vkrasnyan/moderation_app)
 - [FastAPI Telegram Client App integrated with OpenAI](https://github.com/vkrasnyan/MiniApp-with-Telegram-Client)
 - [Online Store on Django](https://github.com/vkrasnyan/python-django-shop)  
 - [Asynchronous API for microblog on FastAPI](https://github.com/vkrasnyan/FastAPIMicroblog))  
 - [REST API with Flask and Marshmallow](https://github.com/vkrasnyan/Rest_Api_Flask)  
 - [Tetris on Python](https://github.com/vkrasnyan/Simple-Tetris-on-Python)  
 - [ISS Location Tracker](https://github.com/vkrasnyan/MKSlocation)
-- [Asynchronous API on FastAPI with Tests](https://github.com/vkrasnyan/FastApiCookingBookWithTests)
 - Telegram chatbots  
 - And more! :)  
 
